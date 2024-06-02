@@ -1,3 +1,4 @@
+#The following questions were answered based on a customer and order analytics database
 
 #How many orders were placed in January? 
 SELECT COUNT(orderid) 
